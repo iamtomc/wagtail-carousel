@@ -12,7 +12,7 @@ def read_file(filename):
         return ''
 
 install_requires = [
-    'wagtail>=0.7'
+    'wagtail>=0.7',
     'wagtail-model-utils>0.0.1'
 ]
 
