@@ -13,7 +13,7 @@ def read_file(filename):
 
 install_requires = [
     'wagtail>=0.7',
-    'wagtail-model-utils>=0.0.1'
+    'wagtail-model-utils'
 ]
 
 setup(
